@@ -46,3 +46,13 @@ A detailed comparison between the existing implementation and our version of the
 - **Response Time:** Consistently lower for the intra-balancer compared to traditional methods.
 - **Processing Time:** Minimized processing times due to efficient task scheduling.
 - **Resource Utilization:** Dynamic VM status checks and request queuing improved resource allocation and reduced idle times.
+
+---
+## Future Scope
+
+- **Integration of AI/ML:**  
+  Using machine learning, such as reinforcement algorithms, to predict VM workloads dynamically.
+
+---
+## Submitted by: 
+Himani (M23CSA516) & Ankit Kumar Chauhan (M23CSA509)
