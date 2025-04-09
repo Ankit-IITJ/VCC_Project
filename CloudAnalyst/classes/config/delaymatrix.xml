@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="23.0.1" class="java.beans.XMLDecoder">
+ <array class="[D" length="6">
+  <void index="0">
+   <array class="double" length="6">
+    <void index="0">
+     <double>5.0</double>
+    </void>
+    <void index="1">
+     <double>100.0</double>
+    </void>
+    <void index="2">
+     <double>100.0</double>
+    </void>
+    <void index="3">
+     <double>100.0</double>
+    </void>
+    <void index="4">
+     <double>100.0</double>
+    </void>
+    <void index="5">
+     <double>100.0</double>
+    </void>
+   </array>
+  </void>
+  <void index="1">
+   <array class="double" length="6">
+    <void index="0">
+     <double>100.0</double>
+    </void>
+    <void index="1">
+     <double>5.0</double>
+    </void>
+    <void index="2">
+     <double>100.0</double>
+    </void>
+    <void index="3">
+     <double>100.0</double>
+    </void>
+    <void index="4">
+     <double>100.0</double>
+    </void>
+    <void index="5">
+     <double>50.0</double>
+    </void>
+   </array>
+  </void>
+  <void index="2">
+   <array class="double" length="6">
+    <void index="0">
+     <double>100.0</double>
+    </void>
+    <void index="1">
+     <double>100.0</double>
+    </void>
+    <void index="2">
+     <double>5.0</double>
+    </void>
+    <void index="3">
+     <double>100.0</double>
+    </void>
+    <void index="4">
+     <double>100.0</double>
+    </void>
+    <void index="5">
+     <double>100.0</double>
+    </void>
+   </array>
+  </void>
+  <void index="3">
+   <array class="double" length="6">
+    <void index="0">
+     <double>100.0</double>
+    </void>
+    <void index="1">
+     <double>100.0</double>
+    </void>
+    <void index="2">
+     <double>100.0</double>
+    </void>
+    <void index="3">
+     <double>5.0</double>
+    </void>
+    <void index="4">
+     <double>100.0</double>
+    </void>
+    <void index="5">
+     <double>50.0</double>
+    </void>
+   </array>
+  </void>
+  <void index="4">
+   <array class="double" length="6">
+    <void index="0">
+     <double>100.0</double>
+    </void>
+    <void index="1">
+     <double>150.0</double>
+    </void>
+    <void index="2">
+     <double>100.0</double>
+    </void>
+    <void index="3">
+     <double>100.0</double>
+    </void>
+    <void index="4">
+     <double>5.0</double>
+    </void>
+    <void index="5">
+     <double>100.0</double>
+    </void>
+   </array>
+  </void>
+  <void index="5">
+   <array class="double" length="6">
+    <void index="0">
+     <double>150.0</double>
+    </void>
+    <void index="1">
+     <double>100.0</double>
+    </void>
+    <void index="2">
+     <double>100.0</double>
+    </void>
+    <void index="3">
+     <double>100.0</double>
+    </void>
+    <void index="4">
+     <double>100.0</double>
+    </void>
+    <void index="5">
+     <double>5.0</double>
+    </void>
+   </array>
+  </void>
+ </array>
+</java>
