@@ -12,4 +12,10 @@ The implementation was developed using the CloudAnalyst simulation toolkit. Key 
 
 1. **Environment Setup**  
    - Installing Java SDKs and a Java IDE  
-   - [Downloading](https://cloudsim-setup.blogspot.com/2013/01/running-and-using-cloud-analyst.html ) and importing the CloudAnalyst project
+   - Download using belwo command and import the CloudAnalyst project
+     ```
+     git
+     ```
+     
+2. **Algorithm Adaptation**  
+   - 
