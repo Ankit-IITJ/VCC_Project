@@ -50,9 +50,13 @@ A detailed comparison between the existing implementation and our version of the
 ---
 ## Future Scope
 
-- **Integration of AI/ML:**  
+- **Integration of AI/ML**  
   Using machine learning, such as reinforcement algorithms, to predict VM workloads dynamically.
 
 ---
-## Submitted by: 
+## Submitted by 
 Himani (M23CSA516) & Ankit Kumar Chauhan (M23CSA509)
+
+---
+## Recorded Video Link
+https://drive.google.com/file/d/1Sro92xGHAAzv_wSbRLc_Lp7Mm5mdKeSS/view?usp=sharing
